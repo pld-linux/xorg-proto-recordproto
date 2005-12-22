@@ -5,8 +5,8 @@ Version:	1.13.2
 Release:	0.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/proto/recordproto-%{version}.tar.bz2
-# Source0-md5:	67574f83e827a4b5680478a802f6555e
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/recordproto-X11R7.0-%{version}.tar.bz2
+# Source0-md5:	6f41a40e8cf4452f1c1725d46b08eb2e
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
@@ -33,7 +33,7 @@ Record protocol and ancillary headers.
 Nag³ówki protoko³u X i pomocnicze.
 
 %prep
-%setup -q -n recordproto-%{version}
+%setup -q -n recordproto-X11R7.0-%{version}
 
 %build
 %{__aclocal}
