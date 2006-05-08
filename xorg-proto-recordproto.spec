@@ -6,7 +6,7 @@ Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/recordproto-%{version}.tar.bz2
-# Source0-md5:	6f41a40e8cf4452f1c1725d46b08eb2e
+# Source0-md5:	0ed4706564a34fc2aff724aa16d3ff00
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
