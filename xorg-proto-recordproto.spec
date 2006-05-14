@@ -33,7 +33,7 @@ Record protocol and ancillary headers.
 Nag³ówki protoko³u X i pomocnicze.
 
 %prep
-%setup -q -n recordproto-X11R7.0-%{version}
+%setup -q -n recordproto-%{version}
 
 %build
 %{__aclocal}
