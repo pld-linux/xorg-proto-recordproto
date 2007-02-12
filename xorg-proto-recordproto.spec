@@ -1,5 +1,5 @@
 Summary:	Record protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu X i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu X i pomocnicze
 Name:		xorg-proto-recordproto
 Version:	1.13.2
 Release:	1
@@ -21,7 +21,7 @@ Nagłówki protokołu X i pomocnicze.
 
 %package devel
 Summary:	Record protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu X i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu X i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-xproto-devel
 Obsoletes:	recordext
