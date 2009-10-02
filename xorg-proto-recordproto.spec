@@ -1,12 +1,12 @@
 Summary:	Record protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu X i pomocnicze
 Name:		xorg-proto-recordproto
-Version:	1.13.99.1
+Version:	1.14
 Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/recordproto-%{version}.tar.bz2
-# Source0-md5:	1ab825ee2dbf32dd4a09cfca89d0fad7
+# Source0-md5:	70f5998c673aa510e2acd6d8fb3799de
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
