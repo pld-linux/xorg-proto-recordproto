@@ -1,13 +1,14 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	Record extension headers
 Summary(pl.UTF-8):	Nagłówki rozszerzenia Record
 Name:		xorg-proto-recordproto
 Version:	1.14.2
-Release:	2
+Release:	2.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/recordproto-%{version}.tar.bz2
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/recordproto-%{version}.tar.bz2
 # Source0-md5:	1b4e5dede5ea51906f1530ca1e21d216
-URL:		http://xorg.freedesktop.org/
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	docbook-dtd43-xml
